@@ -1,0 +1,18 @@
+l = [1,2,3,4,5]
+v = l
+print(l)
+print(v)
+v[0] = 6
+print (v)
+print (l)
+
+nome = ["agenor","daniela","gabriel","guilherme"]
+nome2 = nome
+
+print (nome2)
+print (nome)
+
+nome2[0] = "carlos" 
+
+print (nome2)
+print (nome)
